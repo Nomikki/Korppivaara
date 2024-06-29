@@ -1,0 +1,1 @@
+Ei ole vielä tietoa mitä maailmalle on tapahtunut. Se voi olla kontrolloimaton virus, luonnonmullistus, sota tai jotain muuta. Mutta jotain, mikä on pysyvästi muuttanut ihmiskuntaa.

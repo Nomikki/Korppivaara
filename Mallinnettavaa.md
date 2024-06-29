@@ -1,5 +1,8 @@
 Mallinnettavaa on paljon. Olen käyttänyt placeholderina sketchfabin sisältöä.
 Alla olevat listat ei ole täydellisiä, vaan ns "ensimmäinen iteraatio" jolla saa jonkin verran sisältöä. Melkein jokaisesta vähänkin isommasta modelista hyvä olla myös lod-versiot.
+
+Kun modelista on mesh, tekstuurit ja collision boxit sekä prefab, merkataan se ✅-merkillä. Jos jokin näistä puuttuu, mutta on jo aloitettu, käytetään ❗-merkkiä.
+Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 ## Tarvittavia modeleita
 ### Ympäristöön
 
@@ -9,6 +12,9 @@ Alla olevat listat ei ole täydellisiä, vaan ns "ensimmäinen iteraatio" jolla 
 4. **Rakennukset**: Vanhoja mökkejä, hylättyjä taloja, latoja, navettoja.
 5. **Ajoneuvot**: Ruostuneita autoja, polkupyöriä, veneitä.
 6. **Tie- ja polkuvarusteet**: Aidat, portit, sillat, polut, opastekyltit.
+	1. ✅Korppivaara-kaupunkikyltti
+	2. ✅Postilaatikoita 2
+	3. ✅Sähkökaappi
 7. **Roskat**: Muovipulloja, tölkkejä, paperiroskia, vanhoja lehtiä.
 
 ### Asunnoista

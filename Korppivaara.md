@@ -1,7 +1,7 @@
 ## Mikä on Korppivaara?
 
 Kuvitteelliseen suomalaiseen ympäristöön sijoittuva selviytymispeli. Korppivaara ei ole oikea paikka, mutta se ottaa vahvasti vaikutteita geneerisestä suomalaisesta pikkukylän ympäristöstä.
-Maailmaa on kohdannut [[Katastrofi]], jonka vuoksi moni maa, kaupunki ja kylä ovat autioituneet. Pelaajan kontrolloima hahmo on yksi selviytyjistä, joka koittaa parhaansa mukaan löytää keinoja selviytyä jatkossakin. Hän voi kohdata muitakin selviytyjiä ja se on heistä kiinni, ovatko he toisilleen vihollisia, ystäviä vaiko neutraaleja ohikulkijoita.
+Maailmaa on kohdannut [Katastrofi](Katastrofi.md), jonka vuoksi moni maa, kaupunki ja kylä ovat autioituneet. Pelaajan kontrolloima hahmo on yksi selviytyjistä, joka koittaa parhaansa mukaan löytää keinoja selviytyä jatkossakin. Hän voi kohdata muitakin selviytyjiä ja se on heistä kiinni, ovatko he toisilleen vihollisia, ystäviä vaiko neutraaleja ohikulkijoita.
 
 Peli on siis moninpelattava. Vaikka tällä hetkellä sitä luodaan Unityllä, siirto Unreal Enginen puolelle tuntuu paremmalta ratkaisulta.
 
@@ -32,6 +32,6 @@ Korppivaara on kuvitteellinen paikka, joka sisältää seuraavia elementtejä:
 - **Myytit ja Legenda**: Vaarasta voisi kertoa tarinoita muinaisista metsänhengistä tai kadonneista aarteista, jotka houkuttelevat selviytyjiä tutkimaan aluetta.
 - **Selviytymiselementit**: Pelaajat voivat löytää suojaa vanhoista mökeistä, kerätä ruokaa ja vettä, sekä puolustautua vaarallisilta eläimiltä ja muilta seikkailijoilta.
 
-Mallinnettavien asioiden lista löytää [täältä](Mallinnettavaa). Sisältää myös jotain vinkkejä ja ajatuksia.
-Joitain paikkoja joita *voisi* olla Korpivaarassa löytää [täältä](Paikkoja)
-Lisäsin myös jotain hyödyllisiä [linkkejä](Hyödyllisiä_linkkejä)
+Mallinnettavien asioiden lista löytää [täältä](Mallinnettavaa.md). Sisältää myös jotain vinkkejä ja ajatuksia.
+Joitain paikkoja joita *voisi* olla Korpivaarassa löytää [täältä](Paikkoja.md)
+Lisäsin myös jotain hyödyllisiä [linkkejä](Hyödyllisiä_linkkejä.md)

@@ -10,4 +10,6 @@ Lähtökohdat on, että sisältö/softat on ilmaisia ja lisenssit myös ok. Alla
 - Liikennemerkit: https://vayla.fi/vaylista/liikennemerkit
 - kuvan projektointi 3d-maailmaan sopivaksi (esimerkiksi jos kuvan pohjalta haluaa mallintaa jotain, kamera on hyvä asettaa kuvan kannalta ns. oikein jotta pakopisteet ja muut menee kuten kuuluu): https://fspy.io/
 - Virallisia väripaletteja https://kaupunkitilaohje.hel.fi/kortti/varipaletti/
+- Liikennemerkeistä: https://ava.vaylapilvi.fi/ava/Julkaisut/Liikennevirasto/lo_2013-20_liikennemerkkien_rakenne_web.pdf
+-
 

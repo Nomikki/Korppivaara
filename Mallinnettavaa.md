@@ -15,6 +15,8 @@ Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 	1. ✅Korppivaara-kaupunkikyltti
 	2. ✅Postilaatikoita 2
 	3. ✅Sähkökaappi
+	4. ✅Roskis
+	5. ✅Betoniporsas
 7. **Roskat**: Muovipulloja, tölkkejä, paperiroskia, vanhoja lehtiä.
 
 ### Asunnoista

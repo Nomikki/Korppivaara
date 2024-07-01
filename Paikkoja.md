@@ -31,8 +31,11 @@ Kolmion muodostaisi:
 	* Monen kerrostalon nollakerroksessa jokin liiketila
 	* Sairaala
 	* Koulu
-	* Huoltoasema
+	* Huoltoasemat (esso ja shell)
 	* Apteekki
+	* Kirjasto
+	* Urheilukenttä
+	* Uimahalli
 
 * kylä (paljon vanhoillisempi)
 	* Kirkko

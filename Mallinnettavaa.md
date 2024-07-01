@@ -5,10 +5,8 @@ Kun modelista on mesh, tekstuurit ja collision boxit sekä prefab, merkataan se 
 Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 ## Tarvittavia modeleita
 ### Ympäristöön
-
 1. **Kasvillisuus**: Puita, pensaita, kukkia, ruohikkoa, sammalta, sieniä.
 2. **Luonnonelementit**: Kivet, kalliot, purot, järvet, joet.
-3. **Eläimet**: Lintuja, jäniksiä, kettuja, peuroja, pieniä jyrsijöitä.
 4. **Rakennukset**: Vanhoja mökkejä, hylättyjä taloja, latoja, navettoja.
 5. **Ajoneuvot**: Ruostuneita autoja, polkupyöriä, veneitä.
 6. **Tie- ja polkuvarusteet**: Aidat, portit, sillat, polut, opastekyltit.
@@ -17,12 +15,18 @@ Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 	3. ✅Sähkökaappi
 	4. ✅Roskis
 	5. ✅Betoniporsas
+	6. ❗Perus kylttipohja
+	7. ❗Katulamppuja 3
 7. **Roskat**: Muovipulloja, tölkkejä, paperiroskia, vanhoja lehtiä.
 
 ### Asunnoista
-
 1. **Keittiö**
     - Astiat: lautaset, kupit, lasit, kattilat, pannut, Arabian astiastot, emalikupit.
+	    - Astioita
+	    - Kuppeja
+	    - Laseja
+	    - Kattiloita
+	    - Pannut
     - Ruoat: säilykkeet, mausteet, kuivaruoka, hedelmät, vihannekset.
     - Välineet: veitsi, haarukka, lusikka, leikkuulauta, keittiöpyyhkeet.
     - Laitteet: jääkaappi, hella, mikroaaltouuni, kahvinkeitin, leivänpaahdin, puuhella, liesituuletin.

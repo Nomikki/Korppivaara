@@ -12,5 +12,5 @@ Lähtökohdat on, että sisältö/softat on ilmaisia ja lisenssit myös ok. Alla
 - kuvan projektointi 3d-maailmaan sopivaksi (esimerkiksi jos kuvan pohjalta haluaa mallintaa jotain, kamera on hyvä asettaa kuvan kannalta ns. oikein jotta pakopisteet ja muut menee kuten kuuluu): https://fspy.io/
 - Virallisia väripaletteja https://kaupunkitilaohje.hel.fi/kortti/varipaletti/
 - Liikennemerkeistä: https://ava.vaylapilvi.fi/ava/Julkaisut/Liikennevirasto/lo_2013-20_liikennemerkkien_rakenne_web.pdf
--
+- Ei ilmainen, mutta pikaisella testauksella todella hyvä työkalu puiden generointiin. Vaikka speedtree on varsin *de facto*, TreeIt tuntui todella hyvältä vaihtoehdolta ja hintakaan ei päät huimaa. Alle 4e ja saa laadukasta kamaa ulos. https://store.steampowered.com/app/2386460/Tree_It/
 

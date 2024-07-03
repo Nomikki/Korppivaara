@@ -6,10 +6,16 @@ Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 ## Tarvittavia modeleita
 ### Ympäristöön
 1. **Kasvillisuus**: Puita, pensaita, kukkia, ruohikkoa, sammalta, sieniä.
+	1. ❗Mäntyjä 3
+	2. ❗Koivuja 3
+	3. ❗Kuusia 3
 2. **Luonnonelementit**: Kivet, kalliot, purot, järvet, joet.
-4. **Rakennukset**: Vanhoja mökkejä, hylättyjä taloja, latoja, navettoja.
-5. **Ajoneuvot**: Ruostuneita autoja, polkupyöriä, veneitä.
-6. **Tie- ja polkuvarusteet**: Aidat, portit, sillat, polut, opastekyltit.
+	1. ✅ Kiviä 14 (ei käytä mitään collideria)
+	2. ☑️ Iso kivi (lodin ja colliderin kanssa)
+	3. _ paljon kiviä jotka vaatii materiaalit ja muut höskät. Vasta ladattu.
+3. **Rakennukset**: Vanhoja mökkejä, hylättyjä taloja, latoja, navettoja.
+4. **Ajoneuvot**: Ruostuneita autoja, polkupyöriä, veneitä.
+5. **Tie- ja polkuvarusteet**: Aidat, portit, sillat, polut, opastekyltit.
 	1. ✅Korppivaara-kaupunkikyltti
 	2. ✅Postilaatikoita 2
 	3. ✅Sähkökaappi
@@ -17,7 +23,8 @@ Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 	5. ✅Betoniporsas
 	6. ❗Perus kylttipohja
 	7. ❗Katulamppuja 3
-7. **Roskat**: Muovipulloja, tölkkejä, paperiroskia, vanhoja lehtiä.
+	8. ✅Tiejärjestelmä. Kyllä voi ihminen olla tyhmä. Pitkään ihmettelin miksei tiet muka toimi, mutta oli gizmot pois päältä. Tätä pähkäiltiin taas tunti... Tikulla päähän.
+6. **Roskat**: Muovipulloja, tölkkejä, paperiroskia, vanhoja lehtiä.
 
 ### Asunnoista
 1. **Keittiö**

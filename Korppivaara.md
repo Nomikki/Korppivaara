@@ -35,3 +35,4 @@ Korppivaara on kuvitteellinen paikka, joka sisältää seuraavia elementtejä:
 Mallinnettavien asioiden lista löytää [täältä](Mallinnettavaa.md). Sisältää myös jotain vinkkejä ja ajatuksia.
 Joitain paikkoja joita *voisi* olla Korpivaarassa löytää [täältä](Paikkoja.md)
 Lisäsin myös jotain hyödyllisiä [linkkejä](Hyödyllisiä_linkkejä.md)
+Yleis-randomi todo on [täällä](Todo)

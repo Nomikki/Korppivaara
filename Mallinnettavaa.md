@@ -13,7 +13,10 @@ Jos modelista on lodia myöten kaikki tehty, käytetään ☑️-merkkiä.
 	1. ✅ Kiviä 14 (ei käytä mitään collideria)
 	2. ☑️ Iso kivi (lodin ja colliderin kanssa)
 	3. _ paljon kiviä jotka vaatii materiaalit ja muut höskät. Vasta ladattu.
+	4. _ Järvi/veden shader puolivillainen, mutta aalloista jo tykkäilen. edit. paljon parempi jo, mutta vaahdot jne. puuttuu vielä.
 3. **Rakennukset**: Vanhoja mökkejä, hylättyjä taloja, latoja, navettoja.
+	1.  Rantalaituri
+		
 4. **Ajoneuvot**: Ruostuneita autoja, polkupyöriä, veneitä.
 5. **Tie- ja polkuvarusteet**: Aidat, portit, sillat, polut, opastekyltit.
 	1. ✅Korppivaara-kaupunkikyltti
